@@ -9,7 +9,7 @@ Herdr's own `herdr integration install opencode` targets Herdr TUI only. The des
 ```sh
 mkdir -p ~/.config/opencode/plugins
 curl -fsSL -o ~/.config/opencode/plugins/herdr-app-status.js \
-  https://raw.githubusercontent.com/<owner>/opencode-herdr-app/main/herdr-app-status.js
+  https://raw.githubusercontent.com/Rominou34/opencode-herdr-app/HEAD/herdr-app-status.js
 ```
 
 Or copy `herdr-app-status.js` there by hand. Restart OpenCode.
